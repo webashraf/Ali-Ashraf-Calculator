@@ -1,0 +1,91 @@
+section{}
+section .main-div {
+	width: 535px;
+	/* height: 1200px; */
+	background-color: #4a8aae;
+	margin: auto;
+	padding-top: 10px;
+	border: 9px solid #6d9fcb;
+	border-radius: 26px;
+}
+h3 {
+	padding: 0 30px;
+	font-size: 34px;
+	margin: 0px;
+	font-family: 'Orbitron', sans-serif;
+	float: left;
+}
+.cl-display{
+	margin: 20px 0;
+
+}
+.cl-display .display {
+	height: 126px;
+	width: 85%;
+	background-color: #a3ae76;
+	margin: auto;
+	border-radius: 4px;
+	border: 7px solid #2c6579;
+}
+.clctr-body {
+
+}
+.btns.c {
+	line-height: 3px;
+	font-size: 14px;
+	width: 80px;
+}
+.btns {
+	background-color: #e1dcd9;
+	font-size: 15px;
+	text-align: center;
+	border-radius: 27px;
+	box-shadow: 2px 1px #c2bbb8;
+}
+.cl-buttons {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto;
+	grid-column-gap: 16px;
+	grid-row-gap: 16px;
+	background-color: #e0ded2;
+	padding: 20px 26px;
+	border-radius: 33px;
+	clear: both;
+	border: 4px solid #1c4c5f;
+	border-top: .5px solid;
+	position: relative;
+}
+.plus {
+	position: absolute;
+	right: 25px;
+	bottom: 22px;
+	padding: 38px 35px;
+}
+.p {
+	background-color: #2a2826;
+	color: #ffff;
+}
+.t{
+	background-color: #6f8b8a;
+}
+.acc{
+	background-color: #ef524b;
+}
+.s{
+	background-color: #2ca5bd;
+}
+.btm-d-1 {
+	height: 34px;
+	width: 120px;
+	background-color: #151419;
+	margin: 10px 30px;
+	float: right;
+}
+h1 {
+	font-size: 55px;
+	position: relative;
+	left: 19px;
+	margin-top: 21px;
+	font-weight: 500;
+	font-family: 'Orbitron', sans-serif;
+}
