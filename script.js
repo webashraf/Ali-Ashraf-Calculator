@@ -16,12 +16,6 @@ document.getElementById('zeroToTen7').addEventListener('click', function(){
     const value = document.getElementById('zeroToTen7').innerText;
     document.getElementById('displayNumber').innerText = value;
 })
-document.getElementsByClassName('numButtons').addEventListener('click', function(){
-    const value = document.getElementsByClassName('numButtons').innerText;
-    document.getElementById('displayNumber').innerText = value;
-})
-
-
 document.getElementById('zeroToTen6').addEventListener('click', function(){
     const value = document.getElementById('zeroToTen6').innerText;
     document.getElementById('displayNumber').innerText = value;
